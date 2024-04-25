@@ -1,9 +1,9 @@
-import styles from './escocia.module.css'
-import ComponenteProps from './Componenteprops'
+import Styles from './escocia.module.css'
+import ComponenteProps from './ComponenteProps'
 
 function Escocia(){
     return(
-        <div className={styles.container}>
+        <div className={Styles.container}>
          <ComponenteProps />
         </div>
     )
