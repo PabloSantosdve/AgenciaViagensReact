@@ -1,11 +1,14 @@
 .corpo_texto{
-    position: relative;
+    position: absolute;
+    z-index: 2;
+    top: 900px;
+    left: 750px;
     width: 450px;
     background-color: #fff;
     color: #333;
     text-align: center;
     padding: 15px;
-    margin-left: 850px;
+
     font-size: 20px;
     border-radius: 10px;
     padding-top: 30px;
